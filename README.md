@@ -3,7 +3,7 @@ In this repository we want to share some useful pipelines templates with you, fe
 
 ### Custom Logging in Azure Data Factory and Azure Synapse Analytics
 
-* [How to use template](https://medium.com/creative-data/sending-emails-natively-from-azure-data-factory-or-synapse-pipelines-cbd860adc832?sk=ae0ae3c4010438a72f2021a35af652c4)
+* [How to use template](https://medium.com/creative-data/custom-logging-in-azure-data-factory-and-azure-synapse-analytics-f084643a5489?sk=ef7dfb28a588af718c511845d6de40c4)
 * <a id="raw-url" href="https://github.com/CreativeDataEU/adf_templates/raw/main/custom_logging.zip">Download template</a>
 
 ### Sending Emails natively from Azure Data Factory or Synapse Pipelines
